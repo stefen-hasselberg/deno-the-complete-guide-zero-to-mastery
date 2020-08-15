@@ -1,0 +1,20 @@
+{
+  "name": "deno-the-complete-guide-zero-to-mastery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefen-hasselberg/deno-the-complete-guide-zero-to-mastery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefen-hasselberg/deno-the-complete-guide-zero-to-mastery/issues"
+  },
+  "homepage": "https://github.com/stefen-hasselberg/deno-the-complete-guide-zero-to-mastery#readme"
+}
